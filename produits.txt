@@ -1,0 +1,17 @@
+P67890:Smartphone:599
+P54321:Laptop:899
+P09876:Moniteur:199
+P11223:Clavier:49
+P44556:Souris:25
+P77889:Imprimante:150
+P33445:Disque Dur:80
+P66778:Routeur:120
+P99000:Tablette:399
+P55555:Smartwatch:199
+P11111:Chargeur:20
+P22222:Tablette:250
+P33333:Casque:70
+P44444:Enceinte:45
+P66666:Webcam:60
+P77777:Microphone:30
+P88888:Clé USB:15
